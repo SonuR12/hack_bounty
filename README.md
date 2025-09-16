@@ -4,22 +4,6 @@
 
 ---
 
-## Table of Contents
-
-- [About](#about)  
-- [Features](#features)  
-- [Tech Stack](#tech-stack)  
-- [Getting Started](#getting-started)  
-- [Environment Variables](#environment-variables)  
-- [Scripts](#scripts)  
-- [Deployment](#deployment)  
-- [Roadmap](#roadmap)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)  
-
----
-
 ## Folder Structure
 
 ```bash
