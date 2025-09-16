@@ -22,6 +22,7 @@
 
 ## Folder Structure
 
+```bash
 hack_bounty/
 ├── public/                 # Static assets
 ├── src/                    # Source code (Next.js app structure, components, etc.)
@@ -35,8 +36,12 @@ hack_bounty/
 ├── package-lock.json
 ├── postcss.config.mjs      # PostCSS config
 ├── tsconfig.json           # TypeScript config
-
+````
 ---
+
+## 📸 Screenshot
+![image](https://github.com/SonuR12/hack_bounty/blob/main/public/Demo.png)
+
 
 ## About
 
